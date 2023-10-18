@@ -1,0 +1,35 @@
+.main,.section{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .sec1{
+    border-right: solid grey 3px;
+} */
+
+.dash{
+    height: 4rem;
+    width: 2.5px;
+    background-color: grey;
+}
+
+.m,.navbar{
+    background:#0087FF;
+}
+
+
+.title u{
+    color: #87FF4F;
+}
+
+.title p p{
+    color: #87FF4F;
+}
+
+.mid-img{
+   object-fit: contain;
+}
+
+.main2{
+    align-items: start;
+}
